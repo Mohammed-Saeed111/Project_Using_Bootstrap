@@ -2,7 +2,7 @@
  🌍 Live Demo:  https://mohammed-saeed111.github.io/Project_Using_Bootstrap/
 <hr>
 
-![Project Bootstrap](bootstrap.png)
+![Project Bootstrap](imgs/bootstrap.png)
 
  🚀 Features  
 
