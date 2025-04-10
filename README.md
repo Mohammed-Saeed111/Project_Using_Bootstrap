@@ -1,21 +1,41 @@
- 🌐 Project Using Bootstrap  
- 🌍 Live Demo:  https://mohammed-saeed111.github.io/Project_Using_Bootstrap/
-<hr>
+# 🌐 Project Using Bootstrap
 
-![Project Bootstrap](imgs/bootstrap.png)
+A clean and responsive **landing page** built using **HTML**, **CSS**, and **Bootstrap 5**. This project showcases how to build a visually appealing, mobile-friendly webpage layout using Bootstrap's grid system and components.
 
- 🚀 Features  
+## 🌍 Live Demo
 
-✔️ 📱 **Fully Responsive** – Works on all screen sizes and devices  
-✔️ ⚡ **Fast Performance** – Optimized for speed and efficiency  
-✔️ 🎨 **Pre-designed Components** – Utilizes Bootstrap’s ready-made UI elements  
-✔️ 🌍 **Cross-Browser Compatibility** – Works on Chrome, Firefox, Safari, and Edge  
-✔️ 🛠 **Easy Customization** – Modify layouts and styles effortlessly  
+> *(Add the live preview link here if deployed, e.g., on Vercel, Netlify, or GitHub Pages)*
 
----
+## 🛠️ Tech Stack
 
- 🛠 Technologies Used  
+- **HTML5** – Markup structure
+- **CSS3** – Custom styling
+- **Bootstrap 5** – Responsive design and layout
 
-- 🏗 **HTML5** – For structuring the web pages  
-- 🎨 **CSS3** – For styling and enhancing the UI  
-- 🚀 **Bootstrap** – For grid layouts, pre-built components, and responsive design  
+## ✨ Features
+
+- Hero section with a call to action
+- Navigation bar with logo and menu items
+- Services or features section
+- Testimonials or About section
+- Contact form or footer
+- Fully responsive across all devices
+
+## 📁 Project Structure
+
+Project_Using_Bootstrap/ ├── index.html ├── css/ │ └── style.css ├── js/ │ └── (optional JavaScript files)
+├── images/ │ └── (used images if any) └── README.md
+
+
+## 📷 Screenshots
+
+> *(Optional: Add screenshots of the layout on desktop and mobile views.)*
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Mohammed-Saeed111/Project_Using_Bootstrap.git
+cd Project_Using_Bootstrap
+
