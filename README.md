@@ -1,25 +1,25 @@
 # 🌐 Project Using Bootstrap
 
-A clean and responsive **landing page** built using **HTML**, **CSS**, and **Bootstrap 5**. This project showcases how to build a visually appealing, mobile-friendly webpage layout using Bootstrap's grid system and components.
+A clean and responsive **landing page** built using **HTML**, **CSS**, and **Bootstrap 5**. This project demonstrates how to create a simple, visually appealing, and mobile-friendly webpage layout using Bootstrap's grid system and prebuilt components.
 
 ## 🌍 Live Demo
 
-> *(Add the live preview link here if deployed, e.g., on Vercel, Netlify, or GitHub Pages)*
+> *(If deployed, provide a link to the live version of your project here)*
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Markup structure
+- **HTML5** – Structure of the webpage
 - **CSS3** – Custom styling
-- **Bootstrap 5** – Responsive design and layout
+- **Bootstrap 5** – Responsive layout and design components
 
 ## ✨ Features
 
-- Hero section with a call to action
-- Navigation bar with logo and menu items
-- Services or features section
-- Testimonials or About section
-- Contact form or footer
-- Fully responsive across all devices
+- Responsive layout using Bootstrap's grid system
+- Navigation bar with links
+- Hero section with a call-to-action
+- Sections for services or features
+- Simple contact form or footer
+- Fully responsive for mobile, tablet, and desktop views
 
 ## 📁 Project Structure
 
