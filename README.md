@@ -4,7 +4,7 @@ A clean and responsive **landing page** built using **HTML**, **CSS**, and **Boo
 
 ## 🌍 Live Demo
 
-> *(If deployed, provide a link to the live version of your project here)*
+> *(https://project-using-bootstrap.vercel.app/)*
 
 ## 🛠️ Tech Stack
 
@@ -25,11 +25,6 @@ A clean and responsive **landing page** built using **HTML**, **CSS**, and **Boo
 
 Project_Using_Bootstrap/ ├── index.html ├── css/ │ └── style.css ├── js/ │ └── (optional JavaScript files)
 ├── images/ │ └── (used images if any) └── README.md
-
-
-## 📷 Screenshots
-
-> *(Optional: Add screenshots of the layout on desktop and mobile views.)*
 
 ## 🚀 How to Run Locally
 
